@@ -20,6 +20,8 @@ It is an attempt to build a durable, low-cost, and openly verifiable collaborati
 
 Early stage, actively building, and still shaping the long-term structure.
 
+Core infrastructure is currently hosted in the EU for cost, stability, and long-term maintainability.
+
 ## Explore
 
 Browse the repositories to see the current work in progress.
