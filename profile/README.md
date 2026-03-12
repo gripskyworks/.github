@@ -4,14 +4,26 @@ GripSky is an early-stage internet-native open collaboration organization.
 
 We work on open infrastructure, shared tools, AI-assisted workflows, and sustainable collaboration paths for public-interest projects.
 
+## What GripSky is
+
+GripSky is not just a collection of repositories.  
+It is an attempt to build a durable, low-cost, and openly verifiable collaboration structure for long-term work on the internet.
+
 ## Current focus
+
 - Shared infrastructure
 - Practical open tools
 - AI-assisted workflows
-- Durable coordination for small teams
+- Durable coordination for small teams and early-stage projects
 
-## Status
-Early stage, but actively building.
+## Current status
+
+Early stage, actively building, and still shaping the long-term structure.
+
+## Explore
+
+Browse the repositories to see the current work in progress.
 
 ## Collaboration
-If you care about public-interest technology, sustainable online collaboration, or low-cost open infrastructure, explore the repositories and follow the work.
+
+If your direction overlaps with public-interest technology, sustainable online collaboration, or low-cost open infrastructure, feel free to follow the work and explore the projects.
